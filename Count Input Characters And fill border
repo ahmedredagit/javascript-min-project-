@@ -6,7 +6,7 @@
   </div>
 </form>
 
-//////////////
+//////////////Css//////////
 * {
   box-sizing: border-box;
 }
@@ -48,7 +48,8 @@ input:focus {
 }
 
 
-/////////
+///////// javascript////
+
 let count = document.querySelector(".count");
 let progress = document.querySelector(".progress");
 let input = document.querySelector("input");
